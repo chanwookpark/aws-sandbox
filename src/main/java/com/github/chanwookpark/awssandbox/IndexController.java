@@ -1,4 +1,4 @@
-package com.github.chanwookpark;
+package com.github.chanwookpark.awssandbox;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

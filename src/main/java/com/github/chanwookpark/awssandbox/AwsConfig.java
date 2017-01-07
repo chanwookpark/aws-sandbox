@@ -1,4 +1,4 @@
-package com.github.chanwookpark;
+package com.github.chanwookpark.awssandbox;
 
 import org.springframework.cloud.aws.context.config.annotation.EnableContextInstanceData;
 import org.springframework.context.annotation.Configuration;
